@@ -1,7 +1,7 @@
 Instructions
 -----------------------------------------
 
-This branch is regarding Logistic Regression.
+Logistic Regression.
 
 Dataset - titanic3.csv
 

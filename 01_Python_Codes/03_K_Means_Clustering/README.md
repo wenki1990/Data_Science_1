@@ -1,7 +1,7 @@
 Instructions
 --------------------------
 
-This branch is about K-Means clustering
+K-Means clustering
 
 Dataset - UniversalBank.csv
 

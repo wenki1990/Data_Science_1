@@ -1,7 +1,7 @@
 Instructions
 ---------------------------------
 
-This branch is regarding Linear Regression.
+Linear Regression.
 
 Dataset - insurance.csv
 
