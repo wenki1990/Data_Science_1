@@ -1,1 +1,1 @@
-Data Science in PySpark
+Each directory contains an example in PySpark.
