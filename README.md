@@ -19,6 +19,7 @@ Python_Codes
    	  4.2. TextBlob
 
    	  4.3. Topic Modelling
+
 5. Decision Tree
 6. Ensembles
 
@@ -27,6 +28,7 @@ Python_Codes
    	  6.2. Gradient Boosting
 
    	  6.3. XGBoost
+
 7. Deep Learning
 
      7.1. Single Layer Perceptron
@@ -71,4 +73,5 @@ R_Codes
    	 8.1. Sentiment Analysis
 
    	 8.2. Naive Baye's Classification
+
 9. Recommender Systems
