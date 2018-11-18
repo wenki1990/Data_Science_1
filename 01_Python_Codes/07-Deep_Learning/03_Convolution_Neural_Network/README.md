@@ -14,3 +14,5 @@ Each directory contains an example of CNN
 05 - Object detection using TensorFlow API(ssd_mobilenet_v1_coco_11_06_2017)
 
 06 - Object detection using TensorFlow API(faster_rcnn_inception_resnet_v2_atrous_coco_2018_01_28)
+
+07 - CNN model to classify images of Devanagari(language) characters.
