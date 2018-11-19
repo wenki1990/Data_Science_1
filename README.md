@@ -51,9 +51,11 @@ Python_Codes
 
 		  7.3.7. CNN model to classify images of Devanagari(language) characters
 	
-     7.4. LSTM
+     7.4. RNN
 
-        	  7.4.1. Classify reviews as positive or negative review.
+        	  7.4.1. Classify reviews as positive or negative review using LSTM.
+
+		  7.4.2. Classify reviews as positive or negative review after preprocessing using Tokenizer.
 
 
 Spark_Codes
