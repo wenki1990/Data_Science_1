@@ -26,10 +26,12 @@ Dropout is used to disable proportion of neurons in a layer for each epoch to av
 
 softmax activation function is used on output layer since this is multi-class classification.
 
-An accuracy of is achieved on test data 98.4%
+I have plotted a graph for accuracy after each epoch on training and validation data.
 
-The accuracy on test data is 99.5%
+Graph shows there is no problem of overfitting.
 
-Since the accuracies on test and train data are close, there is no problem of overfitting in this model.
+The accuracy on test data is 98.37%
+
+
  
 
