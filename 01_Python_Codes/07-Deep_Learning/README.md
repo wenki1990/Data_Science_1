@@ -1,8 +1,5 @@
-Data Science in Python
-
-Python_Codes
--------------
-Deep Learning
+Deep Learning in Keras with TensorFlow as backend.
+--------------------------------------------------------
 
      1. Single Layer Perceptron
 
