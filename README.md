@@ -1,7 +1,9 @@
 # Data_Science_1
 
 Have hands-on experience on all machine learning and deep learning algorithms.
-Knows R,Python,PySpark,SQL,Sqoop,Hive and Keras with TensorFlow as backend.
+Knows R, Python, PySpark, SQL, Sqoop, Hive, TensorFlow and Tableau.
+
+The repository is being updated as of 12.3.2021
 
 
 Python_Codes
